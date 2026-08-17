@@ -27,6 +27,6 @@ Each day includes evidence of what I learned, built, or experimented with.
 - [x] Day 1 — AI Personality Profile
 - [x] Day 2
 - [x] Day 3
-- [ ] Day 4
-- [ ] ....
+- [x] Day 4
+- [x] Day 5
 - [ ] Day 60
