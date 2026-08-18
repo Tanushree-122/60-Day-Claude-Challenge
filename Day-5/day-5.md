@@ -14,8 +14,8 @@ Include:
 - Final outcome
 
 Make it practical and beginner-friendly.
-PROMPT B:
 
+PROMPT B:
 Create a 30-day learning roadmap.
 
 Context:
