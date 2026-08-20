@@ -29,4 +29,7 @@ Each day includes evidence of what I learned, built, or experimented with.
 - [x] Day 3
 - [x] Day 4
 - [x] Day 5
-- [ ] Day 60
+- [x] Day 6
+- [x] Day 7
+- [x] Day 8
+
