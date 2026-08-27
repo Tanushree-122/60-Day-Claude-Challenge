@@ -24,19 +24,19 @@ Each day includes evidence of what I learned, built, or experimented with.
 
 ## Progress
 
-- [x] Day 1 — AI Personality Profile
-- [x] Day 2
-- [x] Day 3
-- [x] Day 4
-- [x] Day 5
-- [x] Day 6
-- [x] Day 7
-- [x] Day 8
-- [x] Day 9
-- [x] Day 10
-- [x] Day 11
-- [x] Day 12
-- [x] Day 13
-- [x] Day 14
-- [x] Day 15    
+- [x] Day 1 - AI Personality Profile
+- [x] Day 2 - Prompt Engineering
+- [x] Day 3 - Role-based Prompting
+- [x] Day 4 - Chain of Thought Prompting
+- [x] Day 5 - Context Engineering
+- [x] Day 6 - AI powered Resume Optimizer
+- [x] Day 7 - Claude Usage Strategy
+- [x] Day 8 - Explored Claude Artifacts/AI powered Personal Environmental Health Analyzer
+- [x] Day 9 - Built NutriScope
+- [x] Day 10 - Personal Portfolio
+- [x] Day 11 - Built Resume using AI
+- [x] Day 12 - 
+- [x] Day 13 - 
+- [x] Day 14 - Red Flags Detector while applying for jobs
+- [x] Day 15 - Used Claude as Vedic expert to know about my career, relationships and finances in the future  
 
