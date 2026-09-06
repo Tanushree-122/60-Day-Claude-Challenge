@@ -1,39 +1,23 @@
-Key learnings of Day-5
-# Context Engineering
-# Difference between the outputs of prompt with context and without context
-# Added Sider AI (an extension to Chrome)
+# 🚀 Day 5 — 60 Day Claude Challenge
 
-PROMPT A:
-Create a 30-day learning roadmap.
+## 📌 Today's Tasks
 
-Include:
-- Weekly milestones
-- Daily tasks
-- Resources
-- Projects
-- Final outcome
+- ✅ Learned about **Context Engineering**
+- ✅ Compared outputs of prompts **with and without context**
+- ✅ Added **Sider AI** Chrome Extension
+- ✅ Created a **30-Day Learning Roadmap** using both prompts
+- ✅ Analyzed the difference between the generated outputs
 
-Make it practical and beginner-friendly.
+## 💡 Key Learnings
 
-PROMPT B:
-Create a 30-day learning roadmap.
+- Context Engineering helps AI understand the **user's situation, skills, goals, and requirements**.
+- Adding relevant context makes AI responses more **personalized, practical, and accurate**.
+- Compared a **generic prompt** with a **context-rich prompt** and observed a clear difference in the results.
+- Learned that better context leads to better AI-generated plans and recommendations.
 
-Context:
-- Current Situation: [Student/Professional/Freelancer]
-- Current Skills: [Add Skills]
-- Goal: [Target Goal]
-- Available Time: [Hours per Day]
-- Experience Level: [Beginner/Intermediate]
-- Preferred Learning Style: [Videos/Projects/Reading]
+## 🎯 Day 5 Status
 
-Include:
-- Weekly milestones
-- Daily tasks
-- Resources
-- Projects
-- Final outcome
+**Completed ✅ | 5/60 Days**
 
-Make it practical and beginner-friendly.
-
-I have attached the screenshots of the outputs.
+Learning that **better context → better AI output!** 🤖🚀
 
