@@ -1,0 +1,61 @@
+TANUSHREE SAXENA
+
+8191964847 | saxenatanushree51@gmail.com | Ghaziabad, India
+
+
+PROFESSIONAL SUMMARY
+
+Software Development Engineer with hands-on experience in full-stack development and AI integration. Proficient in Python, React, and FastAPI with demonstrated expertise in building production-ready applications. Strong foundation in data structures, problem-solving, and machine learning model evaluation. Seeking SDE opportunities to design scalable systems and integrate cutting-edge AI technologies.
+
+
+EDUCATION
+
+Bachelor of Technology in Computer Science
+ABES Engineering College, Ghaziabad | Expected Graduation: July 2027
+
+
+EXPERIENCE
+
+IBM SkillsBuild AICTE Internship
+June 2026 – July 2026
+
+Completed 6-week GenAI and AI integration training focused on designing and deploying AI-driven applications. Developed production-ready fairness audit platform as capstone project.
+
+
+India Space Lab (ISL) Summer Internship
+June 2026 – July 2026
+
+Participated in technical training across Advanced Drone Technology, CanSat/CubeSat, Remote Sensing, GIS, Rocketry, and Disaster Management. Engineered PID Controller Tuning and Autonomous Navigation systems for drone automation. Delivered project reports on Ground Control Station (GCS) design and heat-wave response technology, demonstrating technical depth in control systems and geospatial applications.
+
+
+PROJECTS
+
+THE FAIRNESS GAZETTE — Fairness Audit Platform for Machine Learning Models
+June 2026 – July 2026
+
+Designed and deployed a production-ready fairness audit platform evaluating ML models for bias with vintage newspaper-style frontend interface. Implemented FastAPI backend with SQLAlchemy ORM for verdict history storage and retrieval. Integrated fairness metrics engine using pandas, scikit-learn, and Fairlearn for automated bias detection. Developed React and TypeScript frontend with Tailwind CSS and Recharts for data visualization. Containerized with Docker and deployed across Render, Railway, Vercel, and Netlify. Features include CSV/Excel/JSON dataset upload, sensitive feature selection, LogisticRegression baseline training, mitigation comparison via appeal flow, and archive browsing with REST API endpoints.
+
+Technologies: Python 3.11, FastAPI, SQLAlchemy, SQLite, React, TypeScript, Vite, Tailwind CSS, Recharts, Docker, pandas, scikit-learn, Fairlearn
+
+
+Smart Resume Reviewer
+2026
+
+Developed full-stack resume evaluation tool integrating Gemini API for AI-powered feedback. Built responsive frontend with HTML, CSS, and JavaScript. Implemented Python backend for API communication and result processing. Delivered intelligent analysis for resume optimization.
+
+Technologies: HTML, CSS, JavaScript, Python, Gemini API
+
+
+SKILLS
+
+Languages: Java, JavaScript, Python
+
+Frontend: React, TypeScript, HTML, CSS, Tailwind CSS, Vite, axios, Recharts
+
+Backend: FastAPI, SQLAlchemy, SQLite, Python 3.11
+
+Machine Learning & Data: pandas, scikit-learn, Fairlearn, fairness metrics, bias detection
+
+Tools & DevOps: Docker, Docker Compose, Git, REST API design
+
+Core Competencies: Data Structures, Problem Solving, GenAI Integration, Full-Stack Development, API Design, Production Deployment
