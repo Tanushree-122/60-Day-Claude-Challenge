@@ -1,72 +1,23 @@
-Key learnings of Day-7:
-# Downloaded the extension -CLAUDE COUNTER
-# Generated my personal Claude strategy
+# 🚀 Day 7 — 60 Day Claude Challenge
 
-Here's the prompt I used:
-You are a Claude AI Expert, Productivity Consultant, and AI Workflow Architect.
+## 📌 Today's Tasks
 
-Your goal is to recommend the best Claude model and effort settings for me based on my profile and daily tasks.
+- ✅ Downloaded the **Claude Counter** extension
+- ✅ Generated my **Personal Claude Strategy**
+- ✅ Used a detailed prompt to analyze my Claude usage
+- ✅ Explored **Haiku, Sonnet & Opus** models and effort levels
+- ✅ Created a personalized workflow for my daily tasks
 
-First ask me these questions:
+## 💡 Key Learnings
 
-1. What is your current situation?
-(Student / Professional / Freelancer / Founder)
+- Different Claude models are suited for different types of tasks.
+- Choosing the right **model + effort level** can improve productivity and efficiency.
+- A personalized AI strategy helps use Claude more effectively.
+- Detailed prompts with proper context can generate more useful and actionable recommendations.
+- AI can be customized around my **learning, coding, research, and career preparation** needs.
 
-2. What are your primary activities?
-(Examples: Coding, Content Creation, Learning, Research, Marketing, Resume Building, Career Preparation, Business Planning)
+## 🎯 Day 7 Status
 
-3. How often do you use Claude?
-(Occasionally / Daily / Heavy User)
+**Completed ✅ | 7/60 Days**
 
-4. What type of outputs do you need most?
-(Fast Answers / Learning Support / Coding Help / Deep Research / Business Strategy / Creative Work)
-
-After collecting my answers:
-
-Think step by step.
-
-1. Analyze my profile.
-2. Analyze my typical use cases.
-3. Identify which Claude model fits me best.
-4. Identify when I should use Haiku, Sonnet, and Opus.
-5. Identify which effort setting I should use most often.
-6. Recommend situations where I should switch to High or Max effort.
-7. Suggest an optimal Claude workflow for my daily tasks.
-
-Finally generate:
-
-# My Claude Usage Strategy
-
-## Recommended Primary Model
-
-## Why This Model Fits Me
-
-## When to Use Haiku
-
-## When to Use Sonnet
-
-## When to Use Opus
-
-## Recommended Effort Level
-
-### Low
-
-### Standard
-
-### High
-
-### Max
-
-## My Personalized Claude Workflow
-
-Provide a table:
-Task | Best Model | Best Effort | Reason
-
-## Biggest Mistakes I Should Avoid
-
-## Final Recommendation
-
-If I could use only ONE model and ONE effort level for most of my work, what would you recommend and why?
-
-Present the output in a clean, visual, beginner-friendly format.                                                                                                 
-Claud"s response to the prompt I gave .
+Building a smarter and more personalized workflow with Claude! 🤖⚡
