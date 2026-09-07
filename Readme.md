@@ -1,42 +1,57 @@
-# 60 Days of AI — Claude Challenge
+# 🚀 60 Days of AI — Claude Challenge
 
-Welcome to my 60 Days of AI journey.
+Welcome to my **60 Days of AI — Claude Challenge** journey.
 
-I'm a Computer Science student working toward becoming a software engineer.
+I'm a Computer Science student working toward becoming a **Software Engineer**.
 
-## My Goals
+## 🎯 My Goals
 
 Over the next 60 days, I will:
 
-- Improve my AI skills
-- Learn how to work effectively with Claude
-- Build AI-powered projects
-- Improve my software engineering skills
-- Document my daily learning
-- Experiment with AI workflows
-- Build a public portfolio of my progress
+- 🤖 Improve my AI skills
+- 🧠 Learn to work effectively with Claude
+- 💻 Build AI-powered projects
+- 🛠️ Improve my software engineering skills
+- 📚 Document my daily learning
+- ⚡ Experiment with AI workflows
+- 🌐 Build a public portfolio of my progress
 
-## Challenge
+## 🚀 Challenge
 
-This repository documents my daily Claude work throughout the 60-day challenge.
+This repository documents my daily **Claude experiments, projects, learnings, and discoveries** throughout the 60-day challenge.
 
-Each day includes evidence of what I learned, built, or experimented with.
+Each day includes evidence of what I **learned, built, or experimented with**.
 
-## Progress
+## 📊 Progress
 
-- [x] Day 1 - AI Personality Profile
-- [x] Day 2 - Prompt Engineering
-- [x] Day 3 - Role-based Prompting
-- [x] Day 4 - Chain of Thought Prompting
-- [x] Day 5 - Context Engineering
-- [x] Day 6 - AI powered Resume Optimizer
-- [x] Day 7 - Claude Usage Strategy
-- [x] Day 8 - Explored Claude Artifacts/AI powered Personal Environmental Health Analyzer
-- [x] Day 9 - Built NutriScope
-- [x] Day 10 - Personal Portfolio
-- [x] Day 11 - Built Resume using AI
-- [x] Day 12 - 
-- [x] Day 13 - 
-- [x] Day 14 - Red Flags Detector while applying for jobs
-- [x] Day 15 - Used Claude as Vedic expert to know about my career, relationships and finances in the future  
+- ✅ **Day 1** — AI Personality Profile
+- ✅ **Day 2** — Prompt Engineering
+- ✅ **Day 3** — Role-based Prompting
+- ✅ **Day 4** — Chain of Thought Prompting
+- ✅ **Day 5** — Context Engineering
+- ✅ **Day 6** — AI-Powered Resume Optimizer
+- ✅ **Day 7** — Claude Usage Strategy
+- ✅ **Day 8** — Claude Artifacts / Environmental Health Analyzer
+- ✅ **Day 9** — NutriScope
+- ✅ **Day 10** — Personal Portfolio
+- ✅ **Day 11** — AI-Powered Resume
+- ✅ **Day 12** — AI-Assisted Development Workflow
+- ✅ **Day 13** — Job Market Research with Claude
+- ✅ **Day 14** — Job Description Red Flags Detector
+- ✅ **Day 15** — Vedic Astrology Life Analyzer
+- ✅ **Day 16** — Stock Fundamental Research Skill
+- ✅ **Day 17** — Vehicle Cost & Fuel Analysis Dashboard
+- ✅ **Day 18** — Brain Dump Action Planner Skill
+- ✅ **Day 19** — Football Intelligence Hub
+- ✅ **Day 20** — Face Puzzle Game
+- ✅ **Day 21** — Digital Privacy Intelligence Dashboard
+- ✅ **Day 22** — Startup Idea Validation
+- ✅ **Day 23** — Customer & MVP Blueprint
+- ✅ **Day 24** — Startup Business Validation
+- ✅ **Day 25** — AI-Inspired Shark Tank Simulator
 
+## 🔥 Current Progress
+
+**25 / 60 Days Completed**
+
+> **Learn → Build → Experiment → Document → Repeat.** 🚀
