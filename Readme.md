@@ -57,6 +57,6 @@ Each day includes evidence of what I **learned, built, or experimented with**.
 
 ## 🔥 Current Progress
 
-**25 / 60 Days Completed**
+**30 / 60 Days Completed**
 
 > **Learn → Build → Experiment → Document → Repeat.** 🚀
